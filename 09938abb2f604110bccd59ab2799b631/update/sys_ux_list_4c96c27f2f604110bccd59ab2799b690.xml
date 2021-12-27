@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_list">
+    <sys_ux_list action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category display_value="folder">7386c27f2f604110bccd59ab2799b68e</category>
+        <columns>number,folder,folder_authorizer,is_restricted,sub_folder</columns>
+        <condition/>
+        <configuration display_value="Folder Access_menu_config">ff86c27f2f604110bccd59ab2799b68b</configuration>
+        <group_by_column/>
+        <groups/>
+        <list_attributes/>
+        <order>50</order>
+        <roles/>
+        <sys_class_name>sys_ux_list</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-12-27 17:39:35</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>4c96c27f2f604110bccd59ab2799b690</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>All</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Folder Access" source="x_722079_folder_0">09938abb2f604110bccd59ab2799b631</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Folder Access">09938abb2f604110bccd59ab2799b631</sys_scope>
+        <sys_update_name>sys_ux_list_4c96c27f2f604110bccd59ab2799b690</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-12-27 17:39:35</sys_updated_on>
+        <table>x_722079_folder_0_folder</table>
+        <title>All</title>
+    </sys_ux_list>
+</record_update>

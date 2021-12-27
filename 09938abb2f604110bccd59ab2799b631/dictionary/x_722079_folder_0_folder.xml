@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="folder" max_length="40" name="x_722079_folder_0_folder" type="collection">
+        <element label="is restricted" max_length="40" name="is_restricted" type="boolean"/>
+        <element label="folder" max_length="255" name="folder" type="string"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="folder authorizer" max_length="32" name="folder_authorizer" reference="sys_user" type="reference"/>
+        <element label="sub folder" max_length="255" name="sub_folder" type="string"/>
+        <index name="index">
+            <element name="folder_authorizer"/>
+        </index>
+    </element>
+</database>
